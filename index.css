@@ -1,0 +1,84 @@
+div{
+font-size: 8pt;
+}
+.container {
+    max-width: 550px;
+    border: 1px solid #ddd; /* Optional: Add a border for visual distinction */
+    overflow: auto; /* Use overflow property to handle overflow content */
+}
+#hd1{
+    color: teal;
+}
+#hd2
+{
+    color: dimgray;
+}
+#call
+{
+    width: 12px;
+    height: 12px;
+}
+#email
+{
+    width: 12px;
+    height: 12px;
+}
+#gps
+{
+    width: 12px;
+    height: 12px;
+}
+#web
+{
+    width: 12px;
+    height: 12px;
+
+}
+#fb
+{
+    width: 12px;
+    height: 12px;
+
+}
+#tw
+{
+    width: 12px;
+    height: 12px;
+
+}
+#ln
+{
+    width: 12px;
+    height: 12px;
+
+}
+#ins
+{
+    width: 12px;
+    height: 12px;
+
+}
+#fin
+{
+    width: 190px;
+    height: 40px;
+}
+#footer1
+{
+background-color: #3eb64f;
+overflow: auto;
+color: white;
+
+}
+
+#footer2
+{
+background-color: #041684;
+overflow: auto;
+}
+
+#footer3
+{
+background-color: #3eb64f;
+overflow: auto;
+}
